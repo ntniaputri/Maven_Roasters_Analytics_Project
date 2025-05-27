@@ -1,6 +1,6 @@
-# Natania's Analytic Portfolio
+# Maven Roasters' Sales Trends
 
-# Project Background
+## Project Background
 
 Maven Roasters, a coffee shop with three locations across New York City, collects a significant amount of data on its sales. This project undertakes a thorough analysis of Maven Roasters' sales records from the past few months to uncover key trends and performance indicators that can inform business decisions and drive revenue growth.
 
