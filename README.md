@@ -17,7 +17,7 @@ The company’s detailed dataset contains transaction dates, timestamps, product
 
 The dataset for this Maven Roasters sales analysis consists of a single table containing transaction records. This table includes key information such as transaction date, timestamp, product details (category, type, menu item), unit price, transaction quantity, store ID, and transaction value, with a total row of 149117 records.
 
-![Image](https://github.com/user-attachments/assets/ce96c743-eb9c-4160-98f7-ecabdb870d97)
+![Image](https://github.com/user-attachments/assets/54566313-5130-48bc-be15-afddb44fe560)
 
 Before analysis, data accuracy and understanding were ensured by verifying data types, identifying missing values, examining unique entry ranges, and scanning for outliers.
 
