@@ -70,13 +70,18 @@ Key performance indicators for the most recent month (June) compared to the prev
 
 ## 💡 Recommendations 💡
 
-### Immediate Impact:
-* **February Sales Dip:** Conduct a thorough "February Dip Analysis" involving sales data review, staff interviews, and potentially customer surveys to identify the key reasons for the significant decline. Use these findings to inform a targeted strategy for future Februaries.
-* **Increase ATV:** Implement "Pair & Size Up" prompts at checkout and offer "Value Combos”.
+### 🟢 Immediate Impact:
+- **February Sales Dip:** Conduct a thorough "February Dip Analysis" involving sales data review, staff interviews, and potentially customer surveys to identify the key reasons for the significant decline. Use these findings to inform a targeted strategy for future Februaries.  
+- **Increase ATV:** Implement "Pair & Size Up" prompts at checkout and offer "Value Combos”.  
+- **Leverage Monday Peaks (Lower Manhattan):** Launch a "Monday Kickstart" deal to capitalize on strong early-week traffic.  
 
-### Mid-Term Strategies:
-* **Lower Manhattan Evenings:** Introduce an "After-Work Perk" (5-7 PM) and optimize evening staffing.
-* **Afternoon Sales:** Launch an "Afternoon Boost" (2-4 PM) and offer loyalty points for afternoon purchases.
+### 🟡 Mid-Term Strategies:
+- **Lower Manhattan Evenings:** Introduce an "After-Work Perk" (5–7 PM) and optimize evening staffing.  
+- **Afternoon Sales:** Launch an "Afternoon Boost" (2–4 PM) and offer loyalty points for afternoon purchases.  
+- **Product Focus Realignment:** Re-evaluate and enhance core coffee offerings while bundling them with high-performing non-coffee items to reinforce brand identity and boost individual coffee product sales.  
+- **Astoria Midweek Offer:** Introduce a "Midweek Treat" on Wednesdays to build on Astoria's weekday strength.  
+- **Hell’s Kitchen PM Surge:** Extend staffing and promote light snacks or drinks from 3–5 PM to ride the late-day momentum.  
 
-### Long-Term Review:
-* **Underperforming "Other" Category:** Survey customers, discontinue bottom SKUs, and test remaining items with a "Small Batch Spotlight."
+### 🔵 Long-Term Review:
+- **Underperforming "Other" Category:** Survey customers, discontinue bottom SKUs, and test remaining items with a "Small Batch Spotlight."
+
